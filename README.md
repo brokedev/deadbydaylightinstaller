@@ -28,3 +28,7 @@ Leave the command prompt open. Open C:/Dead by Daylight Installer/Dead by Daylig
 Run Dead by Daylight Launcher (Commands).exe
 # Final Steps
 Enjoy.
+# Donate
+I've put alot of love into this program!
+Please share some love by donating:
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi!', '#29abe0', 'K3K3LTCPL');kofiwidget2.draw();</script> 
