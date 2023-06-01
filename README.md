@@ -31,5 +31,7 @@ Enjoy.
 # Donate
 I've put alot of love into this program!
 Please share some love by donating:
-https://ko-fi.com/br3ke
+https://ko-fi.com/br3ke 
+or 
+https://brokedev.github.io/
 
